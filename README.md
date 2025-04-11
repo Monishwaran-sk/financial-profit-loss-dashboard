@@ -64,7 +64,8 @@ This dashboard replaces manual financial reporting with a clear, real-time, and 
 
 📸 Screenshots
 
-![Dashboard Screenshot](screenshots/financial_profit_loss_dashboard.png)
+![Dashboard Screenshot](![financial_profit_loss_dashboard](https://github.com/user-attachments/assets/8241e03b-2a9d-41f6-bf0d-fea644a6e194)
+)
 
 
 
