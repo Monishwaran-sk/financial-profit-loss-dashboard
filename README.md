@@ -43,12 +43,22 @@ The dataset was cleaned and pre-processed using Excel (and optionally SQL), and 
 
 
 
-💡 Business Impact
+📌 Business Impact
 
 This dashboard helps businesses:
 - Quickly assess profit performance across regions
 - Identify underperforming areas or excessive costs
 - Make informed decisions on budget allocation and cost control
+
+
+💡 Solution
+
+This dashboard replaces manual financial reporting with a clear, real-time, and interactive visualization of key metrics. It helps business leaders to:
+
+- Track overall and state-wise profitability
+- Analyze departmental spending
+- Identify cost-heavy areas and high-performing states
+- Make faster, data-driven decisions
 
 
 
