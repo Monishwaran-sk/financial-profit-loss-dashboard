@@ -81,8 +81,8 @@ To use or edit this dashboard:
 🧠 Author
 
 **MONISHWARAN SK** – Aspiring Data Analyst | Power BI Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com/in/your-link)  
-[Portfolio Website] *(optional)*
+[LinkedIn Profile](www.linkedin.com/in/monishwaran-s-k-a85976318)  
+
 
 ---
 
