@@ -81,11 +81,12 @@ To use or edit this dashboard:
 🧠 Author
 
 **MONISHWARAN SK** – Aspiring Data Analyst | Power BI Enthusiast  
-[LinkedIn Profile](www.linkedin.com/in/monishwaran-s-k-a85976318)  
+[LinkedIn Profile](https://www.linkedin.com/in/monishwaran-s-k-a85976318/)
+  
 
 
 
 📬 Feedback
 
-If you have any suggestions or improvements, feel free to open an issue or reach out. Contributions are welcome!
+Feel free to open an issue or reach out if you have any suggestions or improvements. Contributions are welcome!
 
