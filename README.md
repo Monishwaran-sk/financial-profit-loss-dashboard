@@ -1,9 +1,9 @@
-📊 Financial Profit & Loss Dashboard – Power BI
+## 📊 Financial Profit & Loss Dashboard – Power BI
 
 A comprehensive Power BI dashboard project that visualizes key financial metrics like profit, average profit, department-wise spending, and performance by state. The goal is to provide a data-driven tool for business decision-makers to analyze financial health and optimize spending across regions.
 
 
-🧩 Project Overview
+### 🧩 Project Overview
 
 This project demonstrates how financial data can be transformed into an interactive dashboard using Power BI. The dashboard provides a clear and concise view of:
 - Total, average, max, and min profit
@@ -13,7 +13,7 @@ This project demonstrates how financial data can be transformed into an interact
 It is intended for use by financial analysts, department heads, and C-level executives to monitor and improve financial performance.
 
 
-📁 Dataset
+### 📁 Dataset
 
 The dataset was cleaned and pre-processed using Excel (and optionally SQL), and includes the following key columns:
 - `State`
@@ -23,7 +23,7 @@ The dataset was cleaned and pre-processed using Excel (and optionally SQL), and 
 - `Sales Spend`
 
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 | Tool         | Purpose                              |
 |--------------|--------------------------------------|
@@ -33,7 +33,7 @@ The dataset was cleaned and pre-processed using Excel (and optionally SQL), and 
 
 
 
-📌 Key Features
+### 📌 Key Features
 
 - ✅ Interactive cards showing **Total**, **Average**, **Max**, and **Min** Profit
 - 📍 **State-wise Profit** insights (bar chart & pie chart)
@@ -43,7 +43,7 @@ The dataset was cleaned and pre-processed using Excel (and optionally SQL), and 
 
 
 
-📌 Business Impact
+### 📌 Business Impact
 
 This dashboard helps businesses:
 - Quickly assess profit performance across regions
@@ -51,7 +51,7 @@ This dashboard helps businesses:
 - Make informed decisions on budget allocation and cost control
 
 
-💡 Solution
+### 💡 Solution
 
 This dashboard replaces manual financial reporting with a clear, real-time, and interactive visualization of key metrics. It helps business leaders to:
 
@@ -68,7 +68,7 @@ This dashboard replaces manual financial reporting with a clear, real-time, and 
 
 
 
-🚀 Getting Started
+### 🚀 Getting Started
 
 To use or edit this dashboard:
 1. Clone/download this repository.
@@ -78,7 +78,7 @@ To use or edit this dashboard:
 
 
 
-🧠 Author
+### 🧠 Author
 
 **MONISHWARAN SK** – Aspiring Data Analyst | Power BI Enthusiast  
 [LinkedIn Profile](https://www.linkedin.com/in/monishwaran-s-k-a85976318/)
