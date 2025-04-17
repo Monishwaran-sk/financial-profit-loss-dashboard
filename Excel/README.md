@@ -1,7 +1,29 @@
-Contains Excel files used for quick analysis, pivot tables, and manual validation before Power BI development.
+# 📊 Excel Folder
 
+This folder contains Excel files used for **quick data exploration**, **pivot table analysis**, and **manual validation** before creating the Power BI dashboard.
 
-FILES:  
-**Financial_Analysis_Profit_Loss_Excel.xlsx**: Includes pivot tables and formulas to summarize profit metrics and department spending.
+---
 
-PURPOSE: Helps double-check SQL output and understand patterns before dashboard creation.
+## 📂 Files Included
+
+- **`Excel Data analysis.xlsx`**  
+  Contains:
+  - Pivot tables to analyze revenue, cost, and profit
+  - Department-wise spending breakdown
+  - Basic charts and conditional formatting
+  - Manual checks to validate SQL outputs
+
+---
+
+## ✅ Purpose
+
+This Excel file helps:
+- Cross-check SQL query results before visualization
+- Identify initial trends and inconsistencies
+- Serve as a backup tool for calculations during dashboard design
+
+---
+
+## 🔗 Next Step
+
+➡️ Continue to the [`Power BI`](../Power%20BI/) folder to explore the interactive visualizations.
